@@ -4,9 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-import requests
-from bs4 import BeautifulSoup
-
+# iii.
 base_url = "http://quotes.toscrape.com"
 next_page_url = "/page/1/"  # Start from page 1
 
